@@ -1,7 +1,6 @@
 package com.springboot.springbootpractice2.service;
 
-import logic.JavaSort;
-import logic.Sort;
+import com.springboot.springbootpractice2.logic.Sort;
 
 import java.util.List;
 
